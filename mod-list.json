@@ -1,0 +1,111 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-containers",
+      "enabled": true
+    },
+    
+    {
+      "name": "boblibrary",
+      "enabled": true
+    },
+    
+    {
+      "name": "even-distribution",
+      "enabled": true
+    },
+    
+    {
+      "name": "Factorissimo2",
+      "enabled": true
+    },
+    
+    {
+      "name": "factoryplanner",
+      "enabled": true
+    },
+    
+    {
+      "name": "far-reach",
+      "enabled": true
+    },
+    
+    {
+      "name": "faster-start",
+      "enabled": true
+    },
+    
+    {
+      "name": "Fastforward-Start-2",
+      "enabled": true
+    },
+    
+    {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "grappling-gun",
+      "enabled": true
+    },
+    
+    {
+      "name": "helmod",
+      "enabled": true
+    },
+    
+    {
+      "name": "informatron",
+      "enabled": true
+    },
+    
+    {
+      "name": "jetpack",
+      "enabled": true
+    },
+    
+    {
+      "name": "Krastorio2Plus",
+      "enabled": true
+    },
+    
+    {
+      "name": "LoaderRedux",
+      "enabled": true
+    },
+    
+    {
+      "name": "Nanobots",
+      "enabled": true
+    },
+    
+    {
+      "name": "RenaiTransportation",
+      "enabled": true
+    },
+    
+    {
+      "name": "Squeak Through",
+      "enabled": true
+    },
+    
+    {
+      "name": "stdlib",
+      "enabled": true
+    },
+    
+    {
+      "name": "WideChests",
+      "enabled": true
+    }
+  ]
+}
